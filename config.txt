@@ -2,8 +2,7 @@
 "app_secret": "a712e94c2c62535bf8a6272c662c801c",
 
 "template_id": "NOfixjaCn-ypGAnm8LdQjtdwy9V9n6LzfIgnSfxn64s",
-"user_id": ["请替换为自己的 微信号"],
-#"user_id": ["o-mRg59A0FNh5KTHENdMZGuUiL40" , "o-mRg54qxp4N5193ViMKE5WSP85k"],
+"user_id": ["o-mRg59A0FNh5KTHENdMZGuUiL40" , "o-mRg54qxp4N5193ViMKE5WSP85k"],
 
 "C_ShengFen": "湖北",
 "C_ChengShi": "武汉",
@@ -12,11 +11,6 @@
 "S_Love": "2022-08-08",
 "birthday1": "2004-04-19",
 "birthday2": "2002-12-10",
-
-"C_String01": "可以替换为自己想要的文字 01",
-"C_String02": "可以替换为自己想要的文字 02",
-"C_String03": "可以替换为自己想要的文字 03",
-
 
 # 天气预报
 "API_TQYB":"74d43fc98b2a109393b254148b8ad392",
